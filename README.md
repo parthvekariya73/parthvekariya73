@@ -1,26 +1,25 @@
 <div align="center">
 
 ```
-██████╗  █████╗ ██████╗ ████████╗██╗  ██╗
-██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║
-██████╔╝███████║██████╔╝   ██║   ███████║
-██╔═══╝ ██╔══██║██╔══██╗   ██║   ██╔══██║
-██║     ██║  ██║██║  ██║   ██║   ██║  ██║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
-         V E K A R I Y A
+ ██████╗  █████╗ ██████╗ ████████╗██╗  ██╗
+ ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║
+ ██████╔╝███████║██████╔╝   ██║   ███████║
+ ██╔═══╝ ██╔══██║██╔══██╗   ██║   ██╔══██║
+ ██║     ██║  ██║██║  ██║   ██║   ██║  ██║
+ ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+    ✦  V  E  K  A  R  I  Y  A  ✦
 ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Microservices+%7C+Docker;Building+Systems+That+Scale+%E2%9A%A1;10%2C000%2B+Users+Served+in+Production;Clean+Code+%7C+System+Design+%7C+DSA)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=parthvekariya73&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-vekariya)
-&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@parthvekariya781)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/parthvekariya4)
-&nbsp;
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/parthvekagiia)
+<a href="https://www.linkedin.com/in/parth-vekariya7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/@parthvekariya781" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://www.leetcode.com/parthvekariya4" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://auth.geeksforgeeks.org/user/parthvekagiia" target="_blank"><img src="https://img.shields.io/badge/GeeksForGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="mailto:parthpvekariya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/>
+<img src="https://komarev.com/ghpvc/?username=parthvekariya73&label=Profile+Views&color=00d9ff&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -152,25 +151,31 @@ public class ParthVekariya {
 ## `$ cat architecture.md`
 
 ```
-              ┌─────────────────────────────────────────────┐
-              │         MY SYSTEM DESIGN PHILOSOPHY         │
-              └─────────────────────────────────────────────┘
-
-  Client Layer   →   API Gateway   →   Microservices
-       │                  │                  │
-       │            [JWT / OAuth2]    [Spring Boot]
-       │                  │                  │
-       └──────────────────┴──────────┬───────┘
-                                     │
-                    ┌────────────────┼─────────────────┐
-                    │                │                  │
-                [Kafka]          [Redis]            [PostgreSQL]
-             Event Streams      Caching             Persistence
-                    │                │                  │
-                    └────────────────┴──────────────────┘
-                                     │
-                              [Docker + CI/CD]
-                              Zero-downtime deploy
+MY SYSTEM DESIGN PHILOSOPHY
+│
+├── 🌐 Client Layer
+│   └── REST / HTTP Requests
+│
+├── 🔐 API Gateway
+│   ├── JWT / OAuth2 Authentication
+│   └── Role-Based Access Control
+│
+├── ⚙️  Microservices  (Spring Boot)
+│   ├── Service A  →  Business Logic
+│   ├── Service B  →  Notification / Mail
+│   └── Service C  →  Reporting / Analytics
+│
+├── 📨 Event Bus
+│   └── Apache Kafka  →  Async Messaging
+│
+├── 🗄️  Data Layer
+│   ├── PostgreSQL / MySQL  →  Persistence
+│   └── Redis              →  Caching
+│
+└── 🐳 Infrastructure
+    ├── Docker             →  Containerization
+    ├── Maven CI/CD        →  Build Pipeline
+    └── Zero-Downtime Deploy
 ```
 
 ---
@@ -200,10 +205,11 @@ public class ParthVekariya {
 | Platform | Handle |
 |----------|--------|
 | 📧 Email | [parthpvekariya@gmail.com](mailto:parthpvekariya@gmail.com) |
-| 💼 LinkedIn | [parth-vekariya](https://linkedin.com/in/parth-vekariya) |
+| 💼 LinkedIn | [parth-vekariya7](https://www.linkedin.com/in/parth-vekariya7/) |
 | 💻 LeetCode | [parthvekariya4](https://leetcode.com/parthvekariya4) |
 | 🟢 HackerRank | [@parthvekariya781](https://hackerrank.com/@parthvekariya781) |
 | 📘 GeeksForGeeks | [parthvekagiia](https://auth.geeksforgeeks.org/user/parthvekagiia) |
+| 📄 Resume | [Download PDF](https://github.com/parthvekariya73/parthvekariya73/raw/main/parth_vekariya_resume.pdf) |
 
 </div>
 
