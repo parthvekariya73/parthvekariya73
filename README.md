@@ -1,31 +1,222 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Parth Vekariya</h1>
-<h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthvekariya73&label=Profile%20views&color=0e75b6&style=flat" alt="parthvekariya73" /> </p>
+```
+██████╗  █████╗ ██████╗ ████████╗██╗  ██╗
+██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║
+██████╔╝███████║██████╔╝   ██║   ███████║
+██╔═══╝ ██╔══██║██╔══██╗   ██║   ██╔══██║
+██║     ██║  ██║██║  ██║   ██║   ██║  ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+         V E K A R I Y A
+```
 
-- 🌱 I’m currently learning **Problem Solving Skill and DSA**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Microservices+%7C+Docker;Building+Systems+That+Scale+%E2%9A%A1;10%2C000%2B+Users+Served+in+Production;Clean+Code+%7C+System+Design+%7C+DSA)](https://git.io/typing-svg)
 
-- 💬 Ask me about **Software and Web Devlopement**
+<img src="https://komarev.com/ghpvc/?username=parthvekariya73&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-vekariya)
+&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@parthvekariya781)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/parthvekariya4)
+&nbsp;
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/parthvekagiia)
 
-- 📫 How to reach me **parthvekariya7878@gmail.com**
+</div>
 
-- ⚡ Fun fact **I am Happy in mylife**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/parth vekariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth vekariya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@parthvekariya781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@parthvekariya781" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/parthvekariya4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parthvekariya4" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/parthvekagiia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="parthvekagiia" height="30" width="40" /></a>
-</p>
+## `$ whoami`
 
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
- -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthvekariya73&show_icons=true&locale=en&layout=compact" alt="parthvekariya73" /></p>
+```java
+public class ParthVekariya {
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthvekariya73&show_icons=true&locale=en" alt="parthvekariya73" /></p>
+    private final String name     = "Parth Vekariya";
+    private final String role     = "Java Backend Developer — Spring Boot";
+    private final String company  = "Topia Life Science, Vadodara 🇮🇳";
+    private final String email    = "parthpvekariya@gmail.com";
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthvekariya73&" alt="parthvekariya73" /></p>
+    private final String[] passions = {
+        "Clean Architecture",
+        "Microservices Design",
+        "DSA & Problem Solving",
+        "Building for Scale"
+    };
+
+    private final String achievement =
+        "🏆 Launch Excellence Team of 2025 — Topia Life Science";
+
+    public String getCurrentFocus() {
+        return "Mastering System Design + DSA while shipping production-grade backends";
+    }
+}
+```
+
+---
+
+## `$ cat experience.log`
+
+```
+[2025-08 → Present]  Java Backend Developer @ Topia Life Science
+                     ├─ 3 production systems live in healthcare domain
+                     ├─ 10,000+ active users served
+                     ├─ 35% response time reduction via Redis caching
+                     ├─ 40% faster deployments with Docker + Maven CI/CD
+                     └─ 🏆 "Launch Excellence Team of 2025" recipient
+```
+
+---
+
+## `$ ls -la skills/`
+
+<div align="center">
+
+### ⚡ Core Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+### 🗄️ Databases & Messaging
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### 🐳 DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🌐 Frontend (When Needed)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### 🧠 Also Know
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</div>
+
+---
+
+## `$ git log --projects --oneline`
+
+```
+🔴 LIVE  SafePhv-RI ──────── AI-Driven Pharmacovigilance Platform
+         ├─ Stack : Spring Boot · AI/ML · PostgreSQL · Docker · Kafka
+         ├─ Impact: 50% reduction in manual QA review time
+         └─ Led backend for safety case analysis automation w/ AI pipelines
+
+🔴 LIVE  Market-Access ───── UK Healthcare Intelligence Platform
+         ├─ Stack : Spring Boot · PostgreSQL · Kafka · Redis · React/Next.js
+         ├─ Users : 5,000+ NHS professionals across UK ICBs & healthboards
+         └─ Report generation: 12s → 3s  (75% faster 🚀)
+
+🔴 LIVE  PMS ─────────────── Project Management System
+         ├─ Stack : Spring Boot · MySQL · Docker · Kafka · Redis
+         ├─ Users : 5,000+ internal users
+         └─ DB query time reduced 45% via JPA/Hibernate optimization
+
+📂 OSS   E-Learning Platform ── Spring Boot · REST APIs · MySQL · Hibernate
+         └─ Scalable student playlist & course access backend
+
+📂 OSS   Smart Contact Manager ─ Spring Boot · Spring Security · Thymeleaf
+         └─ Secure full-stack contact system with RBAC
+```
+
+---
+
+## `$ top — github stats`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=parthvekariya73&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00d9ff&title_color=00d9ff&icon_color=00ff88"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthvekariya73&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00d9ff&title_color=00d9ff"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parthvekariya73&theme=chartreuse-dark&border=00d9ff&ring=00d9ff&fire=00ff88&currStreakLabel=00d9ff" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## `$ cat architecture.md`
+
+```
+              ┌─────────────────────────────────────────────┐
+              │         MY SYSTEM DESIGN PHILOSOPHY         │
+              └─────────────────────────────────────────────┘
+
+  Client Layer   →   API Gateway   →   Microservices
+       │                  │                  │
+       │            [JWT / OAuth2]    [Spring Boot]
+       │                  │                  │
+       └──────────────────┴──────────┬───────┘
+                                     │
+                    ┌────────────────┼─────────────────┐
+                    │                │                  │
+                [Kafka]          [Redis]            [PostgreSQL]
+             Event Streams      Caching             Persistence
+                    │                │                  │
+                    └────────────────┴──────────────────┘
+                                     │
+                              [Docker + CI/CD]
+                              Zero-downtime deploy
+```
+
+---
+
+## `$ cat achievements.txt`
+
+```
+╔══════════════════════════════════════════════════════╗
+║  🏆  Launch Excellence Team of 2025                  ║
+║      Topia Life Science                              ║
+║      "Outstanding performance & high-impact          ║
+║       contributions in production systems"           ║
+╠══════════════════════════════════════════════════════╣
+║  ✅  Data Structures & Algorithms — HackerRank       ║
+║  🎓  BCA Graduate — CGPA 8.5/10                      ║
+║  📦  3 Production Apps Shipped (6 months)            ║
+║  👥  10,000+ Users Served in Production              ║
+╚══════════════════════════════════════════════════════╝
+```
+
+---
+
+## `$ ping parth`
+
+<div align="center">
+
+| Platform | Handle |
+|----------|--------|
+| 📧 Email | [parthpvekariya@gmail.com](mailto:parthpvekariya@gmail.com) |
+| 💼 LinkedIn | [parth-vekariya](https://linkedin.com/in/parth-vekariya) |
+| 💻 LeetCode | [parthvekariya4](https://leetcode.com/parthvekariya4) |
+| 🟢 HackerRank | [@parthvekariya781](https://hackerrank.com/@parthvekariya781) |
+| 📘 GeeksForGeeks | [parthvekagiia](https://auth.geeksforgeeks.org/user/parthvekagiia) |
+
+</div>
+
+---
+
+<div align="center">
+
+```
+> Currently shipping production code by day,
+> solving DSA problems by night.
+> Let's build something great together. 🚀
+```
+
+**⭐ If you found my work useful, consider starring a repo!**
+
+</div>
