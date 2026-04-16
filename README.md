@@ -19,7 +19,6 @@
 <a href="mailto:parthpvekariya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=parthvekariya73&label=Profile+Views&color=00d9ff&style=flat-square" alt="Profile Views" />
 
 </div>
 
